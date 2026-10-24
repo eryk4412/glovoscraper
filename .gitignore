@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scraped images and directories
+zdjecia/
+zdjecia*/
+menu etuidy/
+stare/
+logs/
+
+# Generated export files
+menu.json
+menu_flat.json
+menu.csv
+menu.xlsx
+restaurant_info.json
+
+# Temporary files
+scratch/
+test*
+*.html
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
