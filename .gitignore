@@ -33,3 +33,7 @@ test*
 Thumbs.db
 .vscode/
 .idea/
+
+# Other scrapers (local only)
+scraper.py
+
